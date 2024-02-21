@@ -1,4 +1,4 @@
-# vue-admin-template
+# vue-admin-panel
 
 > A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
 
@@ -9,7 +9,7 @@
 
 ```bash
 # enter the project directory
-cd vue-admin-template
+cd vue-admin-panel
 
 # install dependency
 npm install
